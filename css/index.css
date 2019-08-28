@@ -350,3 +350,19 @@ img {
   background: #FFFFFF;
   color: #17A2B8;
 }
+
+.tealchange {
+  background: teal;
+}
+
+.hidden {
+  display: none;
+}
+
+.huge {
+  font-size: 6rem;
+}
+
+.tealHl{
+  color: turquoise;
+}
